@@ -1,0 +1,29 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+
+# Configurações de editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.code-workspace
+
+# Pastas de build
+dist/
+build/
+
+# Arquivos ocultos do sistema
+.bash_history
+.gitconfig
+.config/
+.gnupg/
+.accessibility.properties
