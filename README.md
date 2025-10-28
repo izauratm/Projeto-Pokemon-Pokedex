@@ -1,4 +1,4 @@
-# <img src="https://icons.iconarchive.com/icons/hektakun/pokemon/64/181-Ampharos-icon.png" width="64" height="64"> Projeto: Pokémon Pokedex
+# <h1 align="center"><img src="https://icons.iconarchive.com/icons/hektakun/pokemon/64/181-Ampharos-icon.png" width="64" height="64"> Projeto: Pokémon Pokedex</h1>
 
 Bem-vindo à Pokédex Pokémon, um projeto desenvolvido com carinho para fãs da franquia Pokémon - um desafio da plataforma de estudos da [Dio.me](https://web.dio.me/) - e entusiastas de desenvolvimento front-end! Este projeto simula uma Pokédex digital, permitindo explorar detalhes de diversos Pokémons de forma interativa e visualmente atraente.
 
