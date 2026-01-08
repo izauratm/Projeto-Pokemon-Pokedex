@@ -61,6 +61,7 @@ Algumas interfaces gráficas do projeto:
 git clone https://github.com/izauratm/Projeto-Pokemon-Pokedex.git
 2. Abra o index.html no navegador.
 3. Clique em um pokémon para ver os detalhes e evolução.
+4. Ma se preferir, pode jogar antes de clonar: https://izauratm.github.io/Projeto-Pokemon-Pokedex/
 
 ---
 
